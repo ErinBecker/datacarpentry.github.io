@@ -39,4 +39,5 @@ In the near future, we will also provide a friendly, community-supported, peer-r
 [carpentries-lab]: https://github.com/carpentrieslab/proposals
 [coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
 [comms]: https://carpentries.org/connect/
+[issues]: https://github.com/carpentries-incubator/proposals/issues
 [lesson-template]: https://github.com/carpentries/styles
