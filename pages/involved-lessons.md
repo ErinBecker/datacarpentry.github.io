@@ -7,26 +7,31 @@ header:
 permalink: "/involved-lessons/"
 ---
 
-To learn more about how The Carpentries develops its lessons, please refer to the [Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/).
+## Suggest an improvement to an existing lesson
 
-We are always in the process of developing content for new domains and topics.
-If you are interested in participating, please apply for a hackathon,
-help develop on line, [get in touch](https://carpentries.org/contact/) or see our [lessons under
-development](/lessons/#materials-in-early-development).
+The Carpentries lessons are collaboratively developed on GitHub. To fix a typo, correct an error, clarify an example, or otherwise
+suggest an improvement to an existing lesson, you can file an issue on the lesson's GitHub repository. For typo fixes and error
+corrections, pull requests are also welcome! For suggestions, and to propose large-scale changes, please start a conversation
+through an issue rather than putting in a pull request. This gives the lesson Maintainers and the rest of the community an opportunity
+to discuss the suggestion before you've done all of the work. 
 
-All of our lessons are collaboratively developed and distributed under the
-[CC-BY](https://creativecommons.org/licenses/by/2.0/) license. We welcome
-contributions!
+For more details on the workflow of how to contribute via GitHub, see this community contributed [tutorial][git-tutorial].
 
-Fix a typo, suggest a new module or add features to topics. We have a
-[discussion forum](https://carpentries.topicbox.com/) and a [Slack organization](https://swc-slack-invite.herokuapp.com/) for discussion of
-topics or teaching strategies. If comments or suggestions are directly
-related to lesson content, please also feel free to file a GitHub issue.
+## Suggest a new lesson or share lesson materials
 
-### Information on how to contribute
+Many of our community members are excited about developing lessons for other domains and technologies, or for more advanced topics than
+we teach in our workshops. We provide [The Carpentries Incubator][incubator] as a place for community discussion about potential
+new lessons, and for openly sharing Carpentries-style lessons. Any lesson that uses The Carpentries [lesson template][lesson-template], follows our [Code of Conduct][coc], and is licensed either [CC-BY][cc-by] or [CC-0][cc-0] can be hosted in The Carpentries Incubator. 
+Open an [issue][issues] in the Incubator to start a discussion or to share your lesson. You can learn more about The Carpentries approach 
+to curriculum development in our [Curriculum Development Handbook][cdh].
 
-We are currently developing lessons on GitHub.
+In the near future, we will also provide a friendly, community-supported, peer-review process for lessons. After the peer-review process, the lessons will be hosted in [The Carpentries Lab][carpentries-lab] and will be officially endorsed by The Carpentries as high-quality resources. 
 
-[Information on how to contribute to lesson development](https://github.com/carpentries/lesson-example/blob/gh-pages/CONTRIBUTING.md)
-
-If you are interested in contributing, and haven't worked with GitHub, we are developing other strategies for participation, so please [get in touch](mailto:team@carpentries.org).
+[git-tutorial]: https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md
+[incubator]: https://github.com/carpentries-incubator/proposals/blob/master/README.md
+[cc-0]: https://creativecommons.org/share-your-work/public-domain/cc0/
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cdh]: https://cdh.carpentries.org/
+[carpentries-lab]: https://github.com/carpentrieslab/proposals
+[coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#code-of-conduct-summary-view
+[lesson-template]: https://github.com/carpentries/styles
